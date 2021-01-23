@@ -1,0 +1,7 @@
+import time
+
+print("A")
+time.sleep(1)
+print("B")
+time.sleep(1)
+print("C")
